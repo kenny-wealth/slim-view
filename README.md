@@ -7,6 +7,7 @@ Also remember to set the database configuration values applicable to your setup.
 
 ## Dependencies
 - PHP 7+
+- SlimPHP 4 
 - Slim-flash for sending flash notifications
 - Slim-view for managing views
 
